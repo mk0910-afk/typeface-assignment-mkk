@@ -4,14 +4,12 @@ SpendWise is a full‑stack web app to **track, manage, and understand personal 
 
 ---
 
-## 📦 Features (from assignment brief)
+## 📦 Features
 
 - ✍️ Create **income/expense entries** from the web app
 - 🗓️ **List transactions in a selected time range**
 - 📊 **Graphs**: e.g., expenses by **category** and by **date**
 - 🧾 **Extract expenses from uploaded receipts** (images/PDF); supports **POS receipts**
-
-### ⭐ Bonus (nice‑to‑have)
 - 📥 Upload **transaction history from PDF** (tabular format)
 - 📜 **Pagination** on list API
 - 👥 **Multiple users** can use the app
